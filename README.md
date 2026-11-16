@@ -40,6 +40,4 @@ I'm a Software Engineering student and Backend Developer focused on building sca
 
 If you like what I do or my projects and tools have been useful to you, consider buying me a coffee:
 
-<a href="https://buymeacoffee.com/stefanelli" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=stefanelli&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" style="height: 45px !important; width: 162px !important;" />
-</a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF5F5F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/stefanelli)
