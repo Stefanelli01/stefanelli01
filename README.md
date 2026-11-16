@@ -38,6 +38,6 @@ I'm a Software Engineering student and Backend Developer focused on building sca
 - **LinkedIn:** [linkedin.com/in/luizstefanelli](https://www.linkedin.com/in/luizstefanelli/)
 - **Email:** luizstefanelli@tutanota.de
 
-If you like what I do or my projects and tools have been useful to you, consider buying me a coffee:
+If you like what I do, or if my projects and tools have been useful to you, you can help me out by buying me a coffee! 😁
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF5F5F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/stefanelli)
